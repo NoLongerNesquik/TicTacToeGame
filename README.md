@@ -15,9 +15,9 @@ New developers will often be asked to get up to speed on a project rapidly. It i
 1. Now Take 5 minutes  and team up with one of your group members and take turns trying to explain what you’ve understood to someone else.
     * Ask if they can answer the items you jotted down in #2.
 
-   Notes:
-- Unsure of what enum is
-- Unsure of the objects, methods, classes, etc. of JavaFX (i.e. What is init(), Label, GridPane, BorderPane)
+      - Notes:
+        - Unsure of what enum is
+        - Unsure of the objects, methods, classes, etc. of JavaFX (i.e. What is init(), Label, GridPane, BorderPane)
 
 1. Let's discuss as a class the items you still have questions about or are unfamiliar with.
     * Take notes here of things that became more clear after the class discussion.
